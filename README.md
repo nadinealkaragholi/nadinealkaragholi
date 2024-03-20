@@ -10,6 +10,7 @@
   - [Evaluating Efficiency of Synthetic vs Real Data with ML/Deep Learning Techniques](https://github.com/nadinealkaragholi/Synthetic-Data-ML-Deep-Learning)
 - <b>Company Analysis Using Predictive Modeling Techniques</b>
   - [Trackd Company Analysis](https://github.com/nadinealkaragholi/Trackd-Company-Analysis-)
+  - [Dunhumby Company Analysis](https://github.com/nadinealkaragholi/Trackd-Company-Analysis-)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
