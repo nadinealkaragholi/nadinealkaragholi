@@ -5,7 +5,7 @@
 - <b>Dissertation: Anomaly Detection (Unsupervised Learning) </b>
   - [An Investigation of Anomaly Detection Techniques in Temporal Data](https://github.com/nadinealkaragholi/Dissertation-)
 - <b>Machine Learning vs Deep Learning in Predictive Analytics </b>
-  - [Predicting Popularity of Spotify Songs](https://github.com/nadinealkaragholi/Deep-Learning-vs-Machine-Learning) <b>
+  - [Predicting Popularity of Spotify Songs](https://github.com/nadinealkaragholi/Deep-Learning-vs-Machine-Learning) 
 - <b>Synthetic Data Creation and ML/Deep Learning Techniques</b>
   - [Evaluating Efficiency of Synthetic vs Real Data with ML/Deep Learning Techniques](https://github.com/nadinealkaragholi/Synthetic-Data-ML-Deep-Learning)
 - <b>C# (.NET Desktop Applications)</b>
