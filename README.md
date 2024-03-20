@@ -7,7 +7,7 @@
 - <b>Machine Learning vs Deep Learning in Predictive Analytics </b>
   - [Predicting Popularity of Spotify Songs](https://github.com/nadinealkaragholi/Deep-Learning-vs-Machine-Learning) <b>
 - <b>Synthetic Data Creation and ML/Deep Learning Techniques</b>
-  - [Evaluating Efficiency of Synthetic vs Real Data with ML/Deep Learning Techniques](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Evaluating Efficiency of Synthetic vs Real Data with ML/Deep Learning Techniques](https://github.com/nadinealkaragholi/Synthetic-Data-ML-Deep-Learning)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
