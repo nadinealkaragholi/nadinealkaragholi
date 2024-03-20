@@ -11,8 +11,8 @@
 - <b>Company Analysis Using Predictive Modeling Techniques</b>
   - [Trackd Company Analysis](https://github.com/nadinealkaragholi/Trackd-Company-Analysis-)
   - [Dunhumby Company Analysis](https://github.com/nadinealkaragholi/Dunhumby-Company-Analysis)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Generative AI Business Proposal</b>
+  - [ShopTok Proposal](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> 🤳 Connect with me:</h2>
 
